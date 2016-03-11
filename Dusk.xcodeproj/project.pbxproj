@@ -1,0 +1,517 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0E45F45F1C93345300C8046B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E45F45E1C93345300C8046B /* AppDelegate.swift */; };
+		0E45F4611C93345300C8046B /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E45F4601C93345300C8046B /* GameScene.sks */; };
+		0E45F4631C93345300C8046B /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E45F4621C93345300C8046B /* GameScene.swift */; };
+		0E45F4651C93345300C8046B /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E45F4641C93345300C8046B /* GameViewController.swift */; };
+		0E45F4681C93345300C8046B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0E45F4661C93345300C8046B /* Main.storyboard */; };
+		0E45F46A1C93345300C8046B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0E45F4691C93345300C8046B /* Assets.xcassets */; };
+		0E45F46D1C93345300C8046B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0E45F46B1C93345300C8046B /* LaunchScreen.storyboard */; };
+		0E45F4781C93345300C8046B /* DuskTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E45F4771C93345300C8046B /* DuskTests.swift */; };
+		0E45F4831C93345300C8046B /* DuskUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E45F4821C93345300C8046B /* DuskUITests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		0E45F4741C93345300C8046B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 0E45F4531C93345300C8046B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 0E45F45A1C93345300C8046B;
+			remoteInfo = Dusk;
+		};
+		0E45F47F1C93345300C8046B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 0E45F4531C93345300C8046B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 0E45F45A1C93345300C8046B;
+			remoteInfo = Dusk;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		0E45F45B1C93345300C8046B /* Dusk.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Dusk.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0E45F45E1C93345300C8046B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		0E45F4601C93345300C8046B /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
+		0E45F4621C93345300C8046B /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
+		0E45F4641C93345300C8046B /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
+		0E45F4671C93345300C8046B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		0E45F4691C93345300C8046B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		0E45F46C1C93345300C8046B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		0E45F46E1C93345300C8046B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0E45F4731C93345300C8046B /* DuskTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DuskTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		0E45F4771C93345300C8046B /* DuskTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DuskTests.swift; sourceTree = "<group>"; };
+		0E45F4791C93345300C8046B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0E45F47E1C93345300C8046B /* DuskUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DuskUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		0E45F4821C93345300C8046B /* DuskUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DuskUITests.swift; sourceTree = "<group>"; };
+		0E45F4841C93345300C8046B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		0E45F4581C93345300C8046B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0E45F4701C93345300C8046B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0E45F47B1C93345300C8046B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0E45F4521C93345300C8046B = {
+			isa = PBXGroup;
+			children = (
+				0E45F45D1C93345300C8046B /* Dusk */,
+				0E45F4761C93345300C8046B /* DuskTests */,
+				0E45F4811C93345300C8046B /* DuskUITests */,
+				0E45F45C1C93345300C8046B /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		0E45F45C1C93345300C8046B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				0E45F45B1C93345300C8046B /* Dusk.app */,
+				0E45F4731C93345300C8046B /* DuskTests.xctest */,
+				0E45F47E1C93345300C8046B /* DuskUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		0E45F45D1C93345300C8046B /* Dusk */ = {
+			isa = PBXGroup;
+			children = (
+				0E45F45E1C93345300C8046B /* AppDelegate.swift */,
+				0E45F4601C93345300C8046B /* GameScene.sks */,
+				0E45F4621C93345300C8046B /* GameScene.swift */,
+				0E45F4641C93345300C8046B /* GameViewController.swift */,
+				0E45F4661C93345300C8046B /* Main.storyboard */,
+				0E45F4691C93345300C8046B /* Assets.xcassets */,
+				0E45F46B1C93345300C8046B /* LaunchScreen.storyboard */,
+				0E45F46E1C93345300C8046B /* Info.plist */,
+			);
+			path = Dusk;
+			sourceTree = "<group>";
+		};
+		0E45F4761C93345300C8046B /* DuskTests */ = {
+			isa = PBXGroup;
+			children = (
+				0E45F4771C93345300C8046B /* DuskTests.swift */,
+				0E45F4791C93345300C8046B /* Info.plist */,
+			);
+			path = DuskTests;
+			sourceTree = "<group>";
+		};
+		0E45F4811C93345300C8046B /* DuskUITests */ = {
+			isa = PBXGroup;
+			children = (
+				0E45F4821C93345300C8046B /* DuskUITests.swift */,
+				0E45F4841C93345300C8046B /* Info.plist */,
+			);
+			path = DuskUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		0E45F45A1C93345300C8046B /* Dusk */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0E45F4871C93345300C8046B /* Build configuration list for PBXNativeTarget "Dusk" */;
+			buildPhases = (
+				0E45F4571C93345300C8046B /* Sources */,
+				0E45F4581C93345300C8046B /* Frameworks */,
+				0E45F4591C93345300C8046B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Dusk;
+			productName = Dusk;
+			productReference = 0E45F45B1C93345300C8046B /* Dusk.app */;
+			productType = "com.apple.product-type.application";
+		};
+		0E45F4721C93345300C8046B /* DuskTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0E45F48A1C93345300C8046B /* Build configuration list for PBXNativeTarget "DuskTests" */;
+			buildPhases = (
+				0E45F46F1C93345300C8046B /* Sources */,
+				0E45F4701C93345300C8046B /* Frameworks */,
+				0E45F4711C93345300C8046B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				0E45F4751C93345300C8046B /* PBXTargetDependency */,
+			);
+			name = DuskTests;
+			productName = DuskTests;
+			productReference = 0E45F4731C93345300C8046B /* DuskTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		0E45F47D1C93345300C8046B /* DuskUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0E45F48D1C93345300C8046B /* Build configuration list for PBXNativeTarget "DuskUITests" */;
+			buildPhases = (
+				0E45F47A1C93345300C8046B /* Sources */,
+				0E45F47B1C93345300C8046B /* Frameworks */,
+				0E45F47C1C93345300C8046B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				0E45F4801C93345300C8046B /* PBXTargetDependency */,
+			);
+			name = DuskUITests;
+			productName = DuskUITests;
+			productReference = 0E45F47E1C93345300C8046B /* DuskUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		0E45F4531C93345300C8046B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0720;
+				LastUpgradeCheck = 0720;
+				ORGANIZATIONNAME = "Quantum Cat Games";
+				TargetAttributes = {
+					0E45F45A1C93345300C8046B = {
+						CreatedOnToolsVersion = 7.2.1;
+					};
+					0E45F4721C93345300C8046B = {
+						CreatedOnToolsVersion = 7.2.1;
+						TestTargetID = 0E45F45A1C93345300C8046B;
+					};
+					0E45F47D1C93345300C8046B = {
+						CreatedOnToolsVersion = 7.2.1;
+						TestTargetID = 0E45F45A1C93345300C8046B;
+					};
+				};
+			};
+			buildConfigurationList = 0E45F4561C93345300C8046B /* Build configuration list for PBXProject "Dusk" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 0E45F4521C93345300C8046B;
+			productRefGroup = 0E45F45C1C93345300C8046B /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				0E45F45A1C93345300C8046B /* Dusk */,
+				0E45F4721C93345300C8046B /* DuskTests */,
+				0E45F47D1C93345300C8046B /* DuskUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		0E45F4591C93345300C8046B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0E45F4611C93345300C8046B /* GameScene.sks in Resources */,
+				0E45F46D1C93345300C8046B /* LaunchScreen.storyboard in Resources */,
+				0E45F46A1C93345300C8046B /* Assets.xcassets in Resources */,
+				0E45F4681C93345300C8046B /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0E45F4711C93345300C8046B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0E45F47C1C93345300C8046B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		0E45F4571C93345300C8046B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0E45F4631C93345300C8046B /* GameScene.swift in Sources */,
+				0E45F4651C93345300C8046B /* GameViewController.swift in Sources */,
+				0E45F45F1C93345300C8046B /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0E45F46F1C93345300C8046B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0E45F4781C93345300C8046B /* DuskTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0E45F47A1C93345300C8046B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0E45F4831C93345300C8046B /* DuskUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		0E45F4751C93345300C8046B /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 0E45F45A1C93345300C8046B /* Dusk */;
+			targetProxy = 0E45F4741C93345300C8046B /* PBXContainerItemProxy */;
+		};
+		0E45F4801C93345300C8046B /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 0E45F45A1C93345300C8046B /* Dusk */;
+			targetProxy = 0E45F47F1C93345300C8046B /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		0E45F4661C93345300C8046B /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0E45F4671C93345300C8046B /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		0E45F46B1C93345300C8046B /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0E45F46C1C93345300C8046B /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		0E45F4851C93345300C8046B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		0E45F4861C93345300C8046B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		0E45F4881C93345300C8046B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = Dusk/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.quantumcat.Dusk;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		0E45F4891C93345300C8046B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = Dusk/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.quantumcat.Dusk;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		0E45F48B1C93345300C8046B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				INFOPLIST_FILE = DuskTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.quantumcat.DuskTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Dusk.app/Dusk";
+			};
+			name = Debug;
+		};
+		0E45F48C1C93345300C8046B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = DuskTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.quantumcat.DuskTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Dusk.app/Dusk";
+			};
+			name = Release;
+		};
+		0E45F48E1C93345300C8046B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				INFOPLIST_FILE = DuskUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.quantumcat.DuskUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = Dusk;
+				USES_XCTRUNNER = YES;
+			};
+			name = Debug;
+		};
+		0E45F48F1C93345300C8046B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = DuskUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.quantumcat.DuskUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = Dusk;
+				USES_XCTRUNNER = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0E45F4561C93345300C8046B /* Build configuration list for PBXProject "Dusk" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0E45F4851C93345300C8046B /* Debug */,
+				0E45F4861C93345300C8046B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0E45F4871C93345300C8046B /* Build configuration list for PBXNativeTarget "Dusk" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0E45F4881C93345300C8046B /* Debug */,
+				0E45F4891C93345300C8046B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		0E45F48A1C93345300C8046B /* Build configuration list for PBXNativeTarget "DuskTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0E45F48B1C93345300C8046B /* Debug */,
+				0E45F48C1C93345300C8046B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		0E45F48D1C93345300C8046B /* Build configuration list for PBXNativeTarget "DuskUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0E45F48E1C93345300C8046B /* Debug */,
+				0E45F48F1C93345300C8046B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 0E45F4531C93345300C8046B /* Project object */;
+}
