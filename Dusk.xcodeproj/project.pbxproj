@@ -7,8 +7,40 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0E0C55781CAB62EC0011391E /* Level18.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E0C55771CAB62EC0011391E /* Level18.sks */; };
+		0E0C557A1CAB679B0011391E /* Level19.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E0C55791CAB679B0011391E /* Level19.sks */; };
+		0E1350561D7A460800C3EDB7 /* MiniCoinExplosion.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E1350551D7A460800C3EDB7 /* MiniCoinExplosion.sks */; };
+		0E13505A1D7B783A00C3EDB7 /* CoinCollectSound.aif in Resources */ = {isa = PBXBuildFile; fileRef = 0E1350591D7B783A00C3EDB7 /* CoinCollectSound.aif */; };
+		0E18DB161C9A3F8500754E05 /* Level17.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E18DB151C9A3F8500754E05 /* Level17.sks */; };
+		0E18DB181C9B839200754E05 /* Trail1.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E18DB171C9B839200754E05 /* Trail1.sks */; };
+		0E23894A1D7A19FA007381F8 /* coins.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E2389491D7A19FA007381F8 /* coins.sks */; };
+		0E2B27DA1CFCCA7500AB356F /* Level2.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E2B27D91CFCCA7500AB356F /* Level2.sks */; };
+		0E2B27DC1CFCCAA600AB356F /* Level3.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E2B27DB1CFCCAA600AB356F /* Level3.sks */; };
+		0E2B27DE1CFCCAFB00AB356F /* Level4.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E2B27DD1CFCCAFB00AB356F /* Level4.sks */; };
+		0E2B27E01CFCCB8B00AB356F /* Level5.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E2B27DF1CFCCB8B00AB356F /* Level5.sks */; };
+		0E2B27E21CFCCCB700AB356F /* Level6.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E2B27E11CFCCCB700AB356F /* Level6.sks */; };
+		0E2B27E41CFCCD5A00AB356F /* Circle.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E2B27E31CFCCD5A00AB356F /* Circle.sks */; };
+		0E2B27E61CFCCDF000AB356F /* Level7.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E2B27E51CFCCDF000AB356F /* Level7.sks */; };
+		0E2B27E81CFCD0D700AB356F /* Level9.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E2B27E71CFCD0D700AB356F /* Level9.sks */; };
+		0E2B27EA1CFCD19200AB356F /* Level8.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E2B27E91CFCD19200AB356F /* Level8.sks */; };
+		0E2B27EC1CFCD21500AB356F /* Level12.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E2B27EB1CFCD21500AB356F /* Level12.sks */; };
+		0E2B27EE1CFCD27B00AB356F /* Level13.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E2B27ED1CFCD27B00AB356F /* Level13.sks */; };
+		0E2B27F01CFCD45B00AB356F /* Level14.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E2B27EF1CFCD45B00AB356F /* Level14.sks */; };
+		0E2B27F21CFCD9B400AB356F /* Level11.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E2B27F11CFCD9B400AB356F /* Level11.sks */; };
+		0E2B27F41CFCDA2C00AB356F /* Level10.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E2B27F31CFCDA2C00AB356F /* Level10.sks */; };
+		0E2B27F61CFCDA6700AB356F /* Level15.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E2B27F51CFCDA6700AB356F /* Level15.sks */; };
+		0E2B27F81CFCDB2600AB356F /* Level28.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E2B27F71CFCDB2600AB356F /* Level28.sks */; };
+		0E2B27FA1CFCDDF800AB356F /* Level50.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E2B27F91CFCDDF800AB356F /* Level50.sks */; };
+		0E2B27FC1CFCDFAA00AB356F /* Level69.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E2B27FB1CFCDFAA00AB356F /* Level69.sks */; };
+		0E2B28001CFCE5DD00AB356F /* Level48.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E2B27FF1CFCE5DD00AB356F /* Level48.sks */; };
+		0E2B28021CFCE60900AB356F /* Level47.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E2B28011CFCE60900AB356F /* Level47.sks */; };
+		0E2B28041CFCE6EA00AB356F /* Level26.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E2B28031CFCE6EA00AB356F /* Level26.sks */; };
+		0E2B280A1CFDD8B500AB356F /* Level56.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E2B28091CFDD8B500AB356F /* Level56.sks */; };
+		0E2B280E1CFDDA3300AB356F /* Level27.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E2B280D1CFDDA3300AB356F /* Level27.sks */; };
+		0E2B28121CFDDCEF00AB356F /* Rectangle.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E2B28111CFDDCEF00AB356F /* Rectangle.sks */; };
+		0E3AEBF31CF8AD1700AD2518 /* Death3.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E3AEBF21CF8AD1700AD2518 /* Death3.sks */; };
+		0E3AEBF71CFA043C00AD2518 /* FileSave.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E3AEBF61CFA043C00AD2518 /* FileSave.swift */; };
 		0E45F45F1C93345300C8046B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E45F45E1C93345300C8046B /* AppDelegate.swift */; };
-		0E45F4611C93345300C8046B /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E45F4601C93345300C8046B /* GameScene.sks */; };
 		0E45F4631C93345300C8046B /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E45F4621C93345300C8046B /* GameScene.swift */; };
 		0E45F4651C93345300C8046B /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E45F4641C93345300C8046B /* GameViewController.swift */; };
 		0E45F4681C93345300C8046B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0E45F4661C93345300C8046B /* Main.storyboard */; };
@@ -16,6 +48,145 @@
 		0E45F46D1C93345300C8046B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0E45F46B1C93345300C8046B /* LaunchScreen.storyboard */; };
 		0E45F4781C93345300C8046B /* DuskTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E45F4771C93345300C8046B /* DuskTests.swift */; };
 		0E45F4831C93345300C8046B /* DuskUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E45F4821C93345300C8046B /* DuskUITests.swift */; };
+		0E45F4951C94F27200C8046B /* Roboto-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0E45F4911C94F27200C8046B /* Roboto-Bold.ttf */; };
+		0E45F4961C94F27200C8046B /* Roboto-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0E45F4921C94F27200C8046B /* Roboto-Light.ttf */; };
+		0E45F4971C94F27200C8046B /* Roboto-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0E45F4931C94F27200C8046B /* Roboto-Regular.ttf */; };
+		0E45F49A1C94FD0700C8046B /* Dolce Vita.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0E45F4991C94FD0700C8046B /* Dolce Vita.ttf */; };
+		0E45F49C1C94FD1300C8046B /* Dolce Vita Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0E45F49B1C94FD1300C8046B /* Dolce Vita Light.ttf */; };
+		0E45F49E1C95B82D00C8046B /* SKButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E45F49D1C95B82D00C8046B /* SKButton.swift */; };
+		0E45F4DF1C95E0F000C8046B /* Level16.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E45F4DE1C95E0F000C8046B /* Level16.sks */; };
+		0E4F31161CAF10F600996BB2 /* Level23.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E4F31151CAF10F600996BB2 /* Level23.sks */; };
+		0E4F31181CB00ABF00996BB2 /* Level24.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E4F31171CB00ABF00996BB2 /* Level24.sks */; };
+		0E4F311A1CB00D0F00996BB2 /* Square.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E4F31191CB00D0F00996BB2 /* Square.sks */; };
+		0E5AD03C1D182C62005DB4A0 /* Level80.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E5AD03B1D182C62005DB4A0 /* Level80.sks */; };
+		0E5AD03E1D182D11005DB4A0 /* Level81.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E5AD03D1D182D11005DB4A0 /* Level81.sks */; };
+		0E5AD0401D184AD8005DB4A0 /* ShopScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E5AD03F1D184AD8005DB4A0 /* ShopScene.swift */; };
+		0E5AD0421D19FC81005DB4A0 /* SKScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E5AD0411D19FC81005DB4A0 /* SKScrollView.swift */; };
+		0E5AD0441D1C74B9005DB4A0 /* DefaultGameData.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0E5AD0431D1C74B9005DB4A0 /* DefaultGameData.plist */; };
+		0E5AD0681D219860005DB4A0 /* ButtonClick.aif in Resources */ = {isa = PBXBuildFile; fileRef = 0E5AD0671D219860005DB4A0 /* ButtonClick.aif */; };
+		0E5AD06E1D21ABF3005DB4A0 /* Level82.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E5AD06D1D21ABF3005DB4A0 /* Level82.sks */; };
+		0E5AD0701D21AC69005DB4A0 /* Level83.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E5AD06F1D21AC69005DB4A0 /* Level83.sks */; };
+		0E5AD0721D21ADBA005DB4A0 /* Level84.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E5AD0711D21ADBA005DB4A0 /* Level84.sks */; };
+		0E5AD0741D21AEE0005DB4A0 /* Level85.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E5AD0731D21AEE0005DB4A0 /* Level85.sks */; };
+		0E5AD0761D21AFC4005DB4A0 /* Level86.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E5AD0751D21AFC4005DB4A0 /* Level86.sks */; };
+		0E5AD0781D21B05A005DB4A0 /* Level89.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E5AD0771D21B05A005DB4A0 /* Level89.sks */; };
+		0E5AD07A1D21B0A5005DB4A0 /* Level87.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E5AD0791D21B0A5005DB4A0 /* Level87.sks */; };
+		0E5AD07C1D21B167005DB4A0 /* Level88.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E5AD07B1D21B167005DB4A0 /* Level88.sks */; };
+		0E5AD07E1D21B1CC005DB4A0 /* Level90.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E5AD07D1D21B1CC005DB4A0 /* Level90.sks */; };
+		0E5AD0801D21B292005DB4A0 /* Level91.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E5AD07F1D21B292005DB4A0 /* Level91.sks */; };
+		0E5AD0861D21B698005DB4A0 /* Level92.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E5AD0851D21B698005DB4A0 /* Level92.sks */; };
+		0E5AD0881D21B6C1005DB4A0 /* Bullet.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E5AD0871D21B6C1005DB4A0 /* Bullet.sks */; };
+		0E5AD08A1D21B904005DB4A0 /* Level93.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E5AD0891D21B904005DB4A0 /* Level93.sks */; };
+		0E5AD0901D22C836005DB4A0 /* ErrorSound.aif in Resources */ = {isa = PBXBuildFile; fileRef = 0E5AD08F1D22C836005DB4A0 /* ErrorSound.aif */; };
+		0E5AD0921D22DCCC005DB4A0 /* Level94.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E5AD0911D22DCCC005DB4A0 /* Level94.sks */; };
+		0E5AD0941D22DD6D005DB4A0 /* Level95.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E5AD0931D22DD6D005DB4A0 /* Level95.sks */; };
+		0E5AD0961D22DDFB005DB4A0 /* Level96.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E5AD0951D22DDFB005DB4A0 /* Level96.sks */; };
+		0E5AD0981D22DEB4005DB4A0 /* Level97.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E5AD0971D22DEB4005DB4A0 /* Level97.sks */; };
+		0E5AD09E1D22F6CD005DB4A0 /* DawnMusic.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 0E5AD09D1D22F6CD005DB4A0 /* DawnMusic.m4a */; };
+		0E5AD0A21D23686D005DB4A0 /* FreeGiftSound.aif in Resources */ = {isa = PBXBuildFile; fileRef = 0E5AD0A11D23686D005DB4A0 /* FreeGiftSound.aif */; };
+		0E5AD0A61D236EB7005DB4A0 /* LevelCompleteSound.aif in Resources */ = {isa = PBXBuildFile; fileRef = 0E5AD0A51D236EB7005DB4A0 /* LevelCompleteSound.aif */; };
+		0E5AD0A81D261620005DB4A0 /* GameKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0E5AD0A71D261620005DB4A0 /* GameKit.framework */; };
+		0E5AD0AA1D26CC7C005DB4A0 /* Level98.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E5AD0A91D26CC7C005DB4A0 /* Level98.sks */; };
+		0E5AD0AC1D26CD42005DB4A0 /* Level99.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E5AD0AB1D26CD42005DB4A0 /* Level99.sks */; };
+		0E5AD0AE1D26CF14005DB4A0 /* Level100.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E5AD0AD1D26CF14005DB4A0 /* Level100.sks */; };
+		0E5AD0B01D26CFE6005DB4A0 /* Level101.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E5AD0AF1D26CFE6005DB4A0 /* Level101.sks */; };
+		0E5AD0B21D26D223005DB4A0 /* Level102.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E5AD0B11D26D223005DB4A0 /* Level102.sks */; };
+		0E5AD0B41D26D285005DB4A0 /* Level103.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E5AD0B31D26D285005DB4A0 /* Level103.sks */; };
+		0E5AD0B81D280EE8005DB4A0 /* SKMultilineLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E5AD0B71D280EE8005DB4A0 /* SKMultilineLabel.swift */; };
+		0E8C68691D28460F00032BE7 /* DailyChallengeScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E8C68681D28460F00032BE7 /* DailyChallengeScene.swift */; };
+		0E8C686E1D2AEDD500032BE7 /* WhooshSound.aif in Resources */ = {isa = PBXBuildFile; fileRef = 0E8C686D1D2AEDD500032BE7 /* WhooshSound.aif */; };
+		0E8C68701D2AF28100032BE7 /* ChallengeCompleteSound.aif in Resources */ = {isa = PBXBuildFile; fileRef = 0E8C686F1D2AF28100032BE7 /* ChallengeCompleteSound.aif */; };
+		0E8C68721D316DB000032BE7 /* CoinExplosion.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E8C68711D316DB000032BE7 /* CoinExplosion.sks */; };
+		0E8C68741D31778C00032BE7 /* Confetti1.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E8C68731D31778C00032BE7 /* Confetti1.sks */; };
+		0E8C68781D31781A00032BE7 /* squareTexture.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E8C68771D31781A00032BE7 /* squareTexture.png */; };
+		0E8D6BD01D0B8DFA00EABC5B /* Trail3.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E8D6BCF1D0B8DFA00EABC5B /* Trail3.sks */; };
+		0E8D6BD21D0B9A2400EABC5B /* obstacle1-Night.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E8D6BD11D0B9A2400EABC5B /* obstacle1-Night.png */; };
+		0E8D6BD41D0B9A3700EABC5B /* obstacle1.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E8D6BD31D0B9A3700EABC5B /* obstacle1.png */; };
+		0E8D6BD81D0DD00F00EABC5B /* Level73.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E8D6BD71D0DD00F00EABC5B /* Level73.sks */; };
+		0E8D6BDA1D0DD09800EABC5B /* Rectangle-Dawn.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E8D6BD91D0DD09800EABC5B /* Rectangle-Dawn.sks */; };
+		0E8D6BDC1D0DD0D300EABC5B /* Rectangle-Dawn2.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E8D6BDB1D0DD0D300EABC5B /* Rectangle-Dawn2.sks */; };
+		0E8D6BDE1D0DD0F300EABC5B /* RectangleSmall-Dawn.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E8D6BDD1D0DD0F300EABC5B /* RectangleSmall-Dawn.sks */; };
+		0E8D6BE01D0DD10700EABC5B /* RectangleSmall-Dawn2.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E8D6BDF1D0DD10700EABC5B /* RectangleSmall-Dawn2.sks */; };
+		0E8D6BE21D0DD12300EABC5B /* Square-Dawn2.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E8D6BE11D0DD12300EABC5B /* Square-Dawn2.sks */; };
+		0E8D6BE41D0DD13200EABC5B /* Square-Dawn.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E8D6BE31D0DD13200EABC5B /* Square-Dawn.sks */; };
+		0E8D6BE61D0DD14800EABC5B /* Circle-Dawn.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E8D6BE51D0DD14800EABC5B /* Circle-Dawn.sks */; };
+		0E8D6BE81D0DD15800EABC5B /* Circle-Dawn2.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E8D6BE71D0DD15800EABC5B /* Circle-Dawn2.sks */; };
+		0E8D6BEA1D0DF49D00EABC5B /* Level74.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E8D6BE91D0DF49D00EABC5B /* Level74.sks */; };
+		0E8D6BED1D105D1800EABC5B /* Death2.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E8D6BEC1D105D1800EABC5B /* Death2.sks */; };
+		0E8D6BF11D10C3C600EABC5B /* Level75.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E8D6BF01D10C3C600EABC5B /* Level75.sks */; };
+		0E8D6BF31D10C4A100EABC5B /* Level76.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E8D6BF21D10C4A100EABC5B /* Level76.sks */; };
+		0E92309C1D01D86F00B03F85 /* Level61.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E92309B1D01D86F00B03F85 /* Level61.sks */; };
+		0E92309E1D01D8C600B03F85 /* Level62.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E92309D1D01D8C600B03F85 /* Level62.sks */; };
+		0E9230A01D01DBF800B03F85 /* Level63.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E92309F1D01DBF800B03F85 /* Level63.sks */; };
+		0E9230A21D01DCCA00B03F85 /* Level64.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E9230A11D01DCCA00B03F85 /* Level64.sks */; };
+		0E9230A41D01DD2400B03F85 /* Level65.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E9230A31D01DD2400B03F85 /* Level65.sks */; };
+		0E9230A61D01EB2500B03F85 /* Level66.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E9230A51D01EB2500B03F85 /* Level66.sks */; };
+		0E9230AC1D021C4000B03F85 /* iiFaderForAvAudioPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E9230AB1D021C4000B03F85 /* iiFaderForAvAudioPlayer.swift */; };
+		0E9230AE1D02259700B03F85 /* SmackSound.aif in Resources */ = {isa = PBXBuildFile; fileRef = 0E9230AD1D02259700B03F85 /* SmackSound.aif */; };
+		0E9230B01D02326000B03F85 /* RectangleSmall-Night.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E9230AF1D02326000B03F85 /* RectangleSmall-Night.sks */; };
+		0E9230B21D023A2500B03F85 /* NightMusic.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 0E9230B11D023A2500B03F85 /* NightMusic.m4a */; };
+		0E9230B41D0244A900B03F85 /* Level36.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0E9230B31D0244A900B03F85 /* Level36.sks */; };
+		0E938B341D53F09D00BE7FB4 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0E938B331D53F09D00BE7FB4 /* StoreKit.framework */; };
+		0E938B361D542B0200BE7FB4 /* SplashScreenScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E938B351D542B0200BE7FB4 /* SplashScreenScene.swift */; };
+		0EA15A401CFCC9C0006404B1 /* Level1.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EA15A3F1CFCC9C0006404B1 /* Level1.sks */; };
+		0EDBFD861D08FBC10034122C /* Level37.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EDBFD851D08FBC10034122C /* Level37.sks */; };
+		0EDBFD881D090A1A0034122C /* Level38.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EDBFD871D090A1A0034122C /* Level38.sks */; };
+		0EDBFD8A1D090C1A0034122C /* Level39.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EDBFD891D090C1A0034122C /* Level39.sks */; };
+		0EDBFD8C1D090CDF0034122C /* Level40.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EDBFD8B1D090CDF0034122C /* Level40.sks */; };
+		0EDBFD8E1D090D6E0034122C /* Level72.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EDBFD8D1D090D6E0034122C /* Level72.sks */; };
+		0EDBFD901D0B89B40034122C /* trailParticle.png in Resources */ = {isa = PBXBuildFile; fileRef = 0EDBFD8F1D0B89B40034122C /* trailParticle.png */; };
+		0EDBFD921D0B89BF0034122C /* rectTexture.png in Resources */ = {isa = PBXBuildFile; fileRef = 0EDBFD911D0B89BF0034122C /* rectTexture.png */; };
+		0EEB131B1D01243300AF6F53 /* Level59.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EEB131A1D01243300AF6F53 /* Level59.sks */; };
+		0EEB131D1D01267D00AF6F53 /* Level60.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EEB131C1D01267D00AF6F53 /* Level60.sks */; };
+		0EEB13211D012EA400AF6F53 /* Death.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EEB13201D012EA400AF6F53 /* Death.sks */; };
+		0EEF41C51CAC9E9800579CEE /* Level20.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EEF41C41CAC9E9800579CEE /* Level20.sks */; };
+		0EEF41C71CAC9EF100579CEE /* RectangleSmall.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EEF41C61CAC9EF100579CEE /* RectangleSmall.sks */; };
+		0EF169F11D146687008104A6 /* Level77.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EF169F01D146687008104A6 /* Level77.sks */; };
+		0EF169F31D146749008104A6 /* Level78.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EF169F21D146749008104A6 /* Level78.sks */; };
+		0EF169F51D146787008104A6 /* Level79.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EF169F41D146787008104A6 /* Level79.sks */; };
+		0EF3720D1CADBFB90060C3B1 /* Level21.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EF3720C1CADBFB90060C3B1 /* Level21.sks */; };
+		0EF3720F1CADD2000060C3B1 /* Level22.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EF3720E1CADD2000060C3B1 /* Level22.sks */; };
+		0EF57F4C1CCC0C5D0007E827 /* SettingsScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EF57F4B1CCC0C5D0007E827 /* SettingsScene.swift */; };
+		0EF57F581CCD18030007E827 /* DuskMusic2.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 0EF57F571CCD18030007E827 /* DuskMusic2.m4a */; };
+		0EF57F5A1CD2EF130007E827 /* Level25.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EF57F591CD2EF130007E827 /* Level25.sks */; };
+		0EF57F5E1CD3FDDE0007E827 /* spark.png in Resources */ = {isa = PBXBuildFile; fileRef = 0EF57F5C1CD3FDDE0007E827 /* spark.png */; };
+		0EF57F621CD7F49F0007E827 /* Level58.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EF57F611CD7F49F0007E827 /* Level58.sks */; };
+		0EF998AB1CFE20A4006B64F3 /* Level29.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EF998AA1CFE20A4006B64F3 /* Level29.sks */; };
+		0EF998AF1CFE21C9006B64F3 /* Level57.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EF998AE1CFE21C9006B64F3 /* Level57.sks */; };
+		0EF998B11CFE22B5006B64F3 /* RectangleSmall2.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EF998B01CFE22B5006B64F3 /* RectangleSmall2.sks */; };
+		0EF998B31CFE2592006B64F3 /* Rectangle2.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EF998B21CFE2592006B64F3 /* Rectangle2.sks */; };
+		0EF998B51CFE25BC006B64F3 /* Rectangle3.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EF998B41CFE25BC006B64F3 /* Rectangle3.sks */; };
+		0EF998B71CFE2631006B64F3 /* Level31.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EF998B61CFE2631006B64F3 /* Level31.sks */; };
+		0EF998B91CFE2650006B64F3 /* Level32.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EF998B81CFE2650006B64F3 /* Level32.sks */; };
+		0EF998BB1CFE26E8006B64F3 /* Level30.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EF998BA1CFE26E8006B64F3 /* Level30.sks */; };
+		0EF998C11CFF989F006B64F3 /* Level33.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EF998C01CFF989F006B64F3 /* Level33.sks */; };
+		0EF998C31CFF98D2006B64F3 /* Circle2.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EF998C21CFF98D2006B64F3 /* Circle2.sks */; };
+		0EF998C51CFF9919006B64F3 /* Level55.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EF998C41CFF9919006B64F3 /* Level55.sks */; };
+		0EF998C71CFFA029006B64F3 /* Level35.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EF998C61CFFA029006B64F3 /* Level35.sks */; };
+		0EF998C91CFFA1D9006B64F3 /* Level34.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EF998C81CFFA1D9006B64F3 /* Level34.sks */; };
+		0EF998CB1CFFDAEB006B64F3 /* Trail2.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EF998CA1CFFDAEB006B64F3 /* Trail2.sks */; };
+		0EF998CD1D00DF0C006B64F3 /* Level54.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EF998CC1D00DF0C006B64F3 /* Level54.sks */; };
+		0EF998CF1D00DF3E006B64F3 /* Level68.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EF998CE1D00DF3E006B64F3 /* Level68.sks */; };
+		0EF998D31D00E2B9006B64F3 /* Rectangle-Night.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EF998D21D00E2B9006B64F3 /* Rectangle-Night.sks */; };
+		0EF998D71D00E302006B64F3 /* Square-Night.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EF998D61D00E302006B64F3 /* Square-Night.sks */; };
+		0EF998D91D00E315006B64F3 /* Circle-Night.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EF998D81D00E315006B64F3 /* Circle-Night.sks */; };
+		0EF998DB1D00E32D006B64F3 /* Circle-Night2.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EF998DA1D00E32D006B64F3 /* Circle-Night2.sks */; };
+		0EF998DD1D00E36F006B64F3 /* RectangleSmall-Night2.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EF998DC1D00E36F006B64F3 /* RectangleSmall-Night2.sks */; };
+		0EF998E31D00E5CE006B64F3 /* Level49.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EF998E21D00E5CE006B64F3 /* Level49.sks */; };
+		0EF998E51D00E816006B64F3 /* Rectangle-Night2.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EF998E41D00E816006B64F3 /* Rectangle-Night2.sks */; };
+		0EF998E71D00E8A1006B64F3 /* Level70.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EF998E61D00E8A1006B64F3 /* Level70.sks */; };
+		0EF998E91D011AA0006B64F3 /* Level71.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EF998E81D011AA0006B64F3 /* Level71.sks */; };
+		0EF998EB1D011B30006B64F3 /* Level41.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EF998EA1D011B30006B64F3 /* Level41.sks */; };
+		0EF998ED1D011BD9006B64F3 /* Level42.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EF998EC1D011BD9006B64F3 /* Level42.sks */; };
+		0EF998EF1D011C3E006B64F3 /* Level52.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EF998EE1D011C3E006B64F3 /* Level52.sks */; };
+		0EF998F11D011CBE006B64F3 /* Level43.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EF998F01D011CBE006B64F3 /* Level43.sks */; };
+		0EF998F31D011E1B006B64F3 /* Level44.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EF998F21D011E1B006B64F3 /* Level44.sks */; };
+		0EF998F51D011E95006B64F3 /* Level45.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EF998F41D011E95006B64F3 /* Level45.sks */; };
+		0EF998F71D011F2A006B64F3 /* Level46.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EF998F61D011F2A006B64F3 /* Level46.sks */; };
+		0EF998F91D011FAC006B64F3 /* Level53.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EF998F81D011FAC006B64F3 /* Level53.sks */; };
+		0EF998FB1D011FEE006B64F3 /* Level67.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EF998FA1D011FEE006B64F3 /* Level67.sks */; };
+		0EF998FD1D01202E006B64F3 /* Square-Night2.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EF998FC1D01202E006B64F3 /* Square-Night2.sks */; };
+		0EF998FF1D0121A6006B64F3 /* Level51.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0EF998FE1D0121A6006B64F3 /* Level51.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,9 +207,41 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0E0C55771CAB62EC0011391E /* Level18.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level18.sks; sourceTree = "<group>"; };
+		0E0C55791CAB679B0011391E /* Level19.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level19.sks; sourceTree = "<group>"; };
+		0E1350551D7A460800C3EDB7 /* MiniCoinExplosion.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = MiniCoinExplosion.sks; sourceTree = "<group>"; };
+		0E1350591D7B783A00C3EDB7 /* CoinCollectSound.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = CoinCollectSound.aif; sourceTree = "<group>"; };
+		0E18DB151C9A3F8500754E05 /* Level17.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level17.sks; sourceTree = "<group>"; };
+		0E18DB171C9B839200754E05 /* Trail1.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Trail1.sks; sourceTree = "<group>"; };
+		0E2389491D7A19FA007381F8 /* coins.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = coins.sks; sourceTree = "<group>"; };
+		0E2B27D91CFCCA7500AB356F /* Level2.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level2.sks; sourceTree = "<group>"; };
+		0E2B27DB1CFCCAA600AB356F /* Level3.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level3.sks; sourceTree = "<group>"; };
+		0E2B27DD1CFCCAFB00AB356F /* Level4.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level4.sks; sourceTree = "<group>"; };
+		0E2B27DF1CFCCB8B00AB356F /* Level5.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level5.sks; sourceTree = "<group>"; };
+		0E2B27E11CFCCCB700AB356F /* Level6.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level6.sks; sourceTree = "<group>"; };
+		0E2B27E31CFCCD5A00AB356F /* Circle.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Circle.sks; sourceTree = "<group>"; };
+		0E2B27E51CFCCDF000AB356F /* Level7.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level7.sks; sourceTree = "<group>"; };
+		0E2B27E71CFCD0D700AB356F /* Level9.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level9.sks; sourceTree = "<group>"; };
+		0E2B27E91CFCD19200AB356F /* Level8.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level8.sks; sourceTree = "<group>"; };
+		0E2B27EB1CFCD21500AB356F /* Level12.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level12.sks; sourceTree = "<group>"; };
+		0E2B27ED1CFCD27B00AB356F /* Level13.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level13.sks; sourceTree = "<group>"; };
+		0E2B27EF1CFCD45B00AB356F /* Level14.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level14.sks; sourceTree = "<group>"; };
+		0E2B27F11CFCD9B400AB356F /* Level11.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level11.sks; sourceTree = "<group>"; };
+		0E2B27F31CFCDA2C00AB356F /* Level10.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level10.sks; sourceTree = "<group>"; };
+		0E2B27F51CFCDA6700AB356F /* Level15.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level15.sks; sourceTree = "<group>"; };
+		0E2B27F71CFCDB2600AB356F /* Level28.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level28.sks; sourceTree = "<group>"; };
+		0E2B27F91CFCDDF800AB356F /* Level50.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level50.sks; sourceTree = "<group>"; };
+		0E2B27FB1CFCDFAA00AB356F /* Level69.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level69.sks; sourceTree = "<group>"; };
+		0E2B27FF1CFCE5DD00AB356F /* Level48.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level48.sks; sourceTree = "<group>"; };
+		0E2B28011CFCE60900AB356F /* Level47.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level47.sks; sourceTree = "<group>"; };
+		0E2B28031CFCE6EA00AB356F /* Level26.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level26.sks; sourceTree = "<group>"; };
+		0E2B28091CFDD8B500AB356F /* Level56.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level56.sks; sourceTree = "<group>"; };
+		0E2B280D1CFDDA3300AB356F /* Level27.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level27.sks; sourceTree = "<group>"; };
+		0E2B28111CFDDCEF00AB356F /* Rectangle.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Rectangle.sks; sourceTree = "<group>"; };
+		0E3AEBF21CF8AD1700AD2518 /* Death3.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; name = Death3.sks; path = ../Death3.sks; sourceTree = "<group>"; };
+		0E3AEBF61CFA043C00AD2518 /* FileSave.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FileSave.swift; sourceTree = "<group>"; };
 		0E45F45B1C93345300C8046B /* Dusk.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Dusk.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0E45F45E1C93345300C8046B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		0E45F4601C93345300C8046B /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
 		0E45F4621C93345300C8046B /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
 		0E45F4641C93345300C8046B /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
 		0E45F4671C93345300C8046B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -51,6 +254,145 @@
 		0E45F47E1C93345300C8046B /* DuskUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DuskUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0E45F4821C93345300C8046B /* DuskUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DuskUITests.swift; sourceTree = "<group>"; };
 		0E45F4841C93345300C8046B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0E45F4911C94F27200C8046B /* Roboto-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Roboto-Bold.ttf"; path = "../../../../../Downloads/roboto/Roboto-Bold.ttf"; sourceTree = "<group>"; };
+		0E45F4921C94F27200C8046B /* Roboto-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Roboto-Light.ttf"; path = "../../../../../Downloads/roboto/Roboto-Light.ttf"; sourceTree = "<group>"; };
+		0E45F4931C94F27200C8046B /* Roboto-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Roboto-Regular.ttf"; path = "../../../../../Downloads/roboto/Roboto-Regular.ttf"; sourceTree = "<group>"; };
+		0E45F4991C94FD0700C8046B /* Dolce Vita.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Dolce Vita.ttf"; path = "../../../../../Downloads/dolce_vita/Dolce Vita.ttf"; sourceTree = "<group>"; };
+		0E45F49B1C94FD1300C8046B /* Dolce Vita Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Dolce Vita Light.ttf"; path = "../../../../../Downloads/dolce_vita/Dolce Vita Light.ttf"; sourceTree = "<group>"; };
+		0E45F49D1C95B82D00C8046B /* SKButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SKButton.swift; sourceTree = "<group>"; };
+		0E45F4DE1C95E0F000C8046B /* Level16.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level16.sks; sourceTree = "<group>"; };
+		0E4F31151CAF10F600996BB2 /* Level23.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level23.sks; sourceTree = "<group>"; };
+		0E4F31171CB00ABF00996BB2 /* Level24.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level24.sks; sourceTree = "<group>"; };
+		0E4F31191CB00D0F00996BB2 /* Square.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Square.sks; sourceTree = "<group>"; };
+		0E5AD03B1D182C62005DB4A0 /* Level80.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level80.sks; sourceTree = "<group>"; };
+		0E5AD03D1D182D11005DB4A0 /* Level81.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level81.sks; sourceTree = "<group>"; };
+		0E5AD03F1D184AD8005DB4A0 /* ShopScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShopScene.swift; sourceTree = "<group>"; };
+		0E5AD0411D19FC81005DB4A0 /* SKScrollView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SKScrollView.swift; sourceTree = "<group>"; };
+		0E5AD0431D1C74B9005DB4A0 /* DefaultGameData.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = DefaultGameData.plist; sourceTree = "<group>"; };
+		0E5AD0671D219860005DB4A0 /* ButtonClick.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = ButtonClick.aif; sourceTree = "<group>"; };
+		0E5AD06D1D21ABF3005DB4A0 /* Level82.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level82.sks; sourceTree = "<group>"; };
+		0E5AD06F1D21AC69005DB4A0 /* Level83.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level83.sks; sourceTree = "<group>"; };
+		0E5AD0711D21ADBA005DB4A0 /* Level84.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level84.sks; sourceTree = "<group>"; };
+		0E5AD0731D21AEE0005DB4A0 /* Level85.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level85.sks; sourceTree = "<group>"; };
+		0E5AD0751D21AFC4005DB4A0 /* Level86.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level86.sks; sourceTree = "<group>"; };
+		0E5AD0771D21B05A005DB4A0 /* Level89.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level89.sks; sourceTree = "<group>"; };
+		0E5AD0791D21B0A5005DB4A0 /* Level87.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level87.sks; sourceTree = "<group>"; };
+		0E5AD07B1D21B167005DB4A0 /* Level88.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level88.sks; sourceTree = "<group>"; };
+		0E5AD07D1D21B1CC005DB4A0 /* Level90.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level90.sks; sourceTree = "<group>"; };
+		0E5AD07F1D21B292005DB4A0 /* Level91.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level91.sks; sourceTree = "<group>"; };
+		0E5AD0851D21B698005DB4A0 /* Level92.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level92.sks; sourceTree = "<group>"; };
+		0E5AD0871D21B6C1005DB4A0 /* Bullet.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Bullet.sks; sourceTree = "<group>"; };
+		0E5AD0891D21B904005DB4A0 /* Level93.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level93.sks; sourceTree = "<group>"; };
+		0E5AD08F1D22C836005DB4A0 /* ErrorSound.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = ErrorSound.aif; sourceTree = "<group>"; };
+		0E5AD0911D22DCCC005DB4A0 /* Level94.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level94.sks; sourceTree = "<group>"; };
+		0E5AD0931D22DD6D005DB4A0 /* Level95.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level95.sks; sourceTree = "<group>"; };
+		0E5AD0951D22DDFB005DB4A0 /* Level96.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level96.sks; sourceTree = "<group>"; };
+		0E5AD0971D22DEB4005DB4A0 /* Level97.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level97.sks; sourceTree = "<group>"; };
+		0E5AD09D1D22F6CD005DB4A0 /* DawnMusic.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = DawnMusic.m4a; sourceTree = "<group>"; };
+		0E5AD0A11D23686D005DB4A0 /* FreeGiftSound.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = FreeGiftSound.aif; sourceTree = "<group>"; };
+		0E5AD0A51D236EB7005DB4A0 /* LevelCompleteSound.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = LevelCompleteSound.aif; sourceTree = "<group>"; };
+		0E5AD0A71D261620005DB4A0 /* GameKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GameKit.framework; path = System/Library/Frameworks/GameKit.framework; sourceTree = SDKROOT; };
+		0E5AD0A91D26CC7C005DB4A0 /* Level98.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level98.sks; sourceTree = "<group>"; };
+		0E5AD0AB1D26CD42005DB4A0 /* Level99.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level99.sks; sourceTree = "<group>"; };
+		0E5AD0AD1D26CF14005DB4A0 /* Level100.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level100.sks; sourceTree = "<group>"; };
+		0E5AD0AF1D26CFE6005DB4A0 /* Level101.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level101.sks; sourceTree = "<group>"; };
+		0E5AD0B11D26D223005DB4A0 /* Level102.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level102.sks; sourceTree = "<group>"; };
+		0E5AD0B31D26D285005DB4A0 /* Level103.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level103.sks; sourceTree = "<group>"; };
+		0E5AD0B71D280EE8005DB4A0 /* SKMultilineLabel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SKMultilineLabel.swift; sourceTree = "<group>"; };
+		0E8C68681D28460F00032BE7 /* DailyChallengeScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DailyChallengeScene.swift; sourceTree = "<group>"; };
+		0E8C686D1D2AEDD500032BE7 /* WhooshSound.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = WhooshSound.aif; sourceTree = "<group>"; };
+		0E8C686F1D2AF28100032BE7 /* ChallengeCompleteSound.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = ChallengeCompleteSound.aif; sourceTree = "<group>"; };
+		0E8C68711D316DB000032BE7 /* CoinExplosion.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = CoinExplosion.sks; sourceTree = "<group>"; };
+		0E8C68731D31778C00032BE7 /* Confetti1.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Confetti1.sks; sourceTree = "<group>"; };
+		0E8C68771D31781A00032BE7 /* squareTexture.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = squareTexture.png; sourceTree = "<group>"; };
+		0E8D6BCF1D0B8DFA00EABC5B /* Trail3.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Trail3.sks; sourceTree = "<group>"; };
+		0E8D6BD11D0B9A2400EABC5B /* obstacle1-Night.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "obstacle1-Night.png"; sourceTree = "<group>"; };
+		0E8D6BD31D0B9A3700EABC5B /* obstacle1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = obstacle1.png; sourceTree = "<group>"; };
+		0E8D6BD71D0DD00F00EABC5B /* Level73.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level73.sks; sourceTree = "<group>"; };
+		0E8D6BD91D0DD09800EABC5B /* Rectangle-Dawn.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = "Rectangle-Dawn.sks"; sourceTree = "<group>"; };
+		0E8D6BDB1D0DD0D300EABC5B /* Rectangle-Dawn2.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = "Rectangle-Dawn2.sks"; sourceTree = "<group>"; };
+		0E8D6BDD1D0DD0F300EABC5B /* RectangleSmall-Dawn.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = "RectangleSmall-Dawn.sks"; sourceTree = "<group>"; };
+		0E8D6BDF1D0DD10700EABC5B /* RectangleSmall-Dawn2.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = "RectangleSmall-Dawn2.sks"; sourceTree = "<group>"; };
+		0E8D6BE11D0DD12300EABC5B /* Square-Dawn2.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = "Square-Dawn2.sks"; sourceTree = "<group>"; };
+		0E8D6BE31D0DD13200EABC5B /* Square-Dawn.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = "Square-Dawn.sks"; sourceTree = "<group>"; };
+		0E8D6BE51D0DD14800EABC5B /* Circle-Dawn.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = "Circle-Dawn.sks"; sourceTree = "<group>"; };
+		0E8D6BE71D0DD15800EABC5B /* Circle-Dawn2.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = "Circle-Dawn2.sks"; sourceTree = "<group>"; };
+		0E8D6BE91D0DF49D00EABC5B /* Level74.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level74.sks; sourceTree = "<group>"; };
+		0E8D6BEC1D105D1800EABC5B /* Death2.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Death2.sks; sourceTree = SOURCE_ROOT; };
+		0E8D6BF01D10C3C600EABC5B /* Level75.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level75.sks; sourceTree = "<group>"; };
+		0E8D6BF21D10C4A100EABC5B /* Level76.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level76.sks; sourceTree = "<group>"; };
+		0E92309B1D01D86F00B03F85 /* Level61.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level61.sks; sourceTree = "<group>"; };
+		0E92309D1D01D8C600B03F85 /* Level62.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level62.sks; sourceTree = "<group>"; };
+		0E92309F1D01DBF800B03F85 /* Level63.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level63.sks; sourceTree = "<group>"; };
+		0E9230A11D01DCCA00B03F85 /* Level64.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level64.sks; sourceTree = "<group>"; };
+		0E9230A31D01DD2400B03F85 /* Level65.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level65.sks; sourceTree = "<group>"; };
+		0E9230A51D01EB2500B03F85 /* Level66.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level66.sks; sourceTree = "<group>"; };
+		0E9230AB1D021C4000B03F85 /* iiFaderForAvAudioPlayer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = iiFaderForAvAudioPlayer.swift; sourceTree = "<group>"; };
+		0E9230AD1D02259700B03F85 /* SmackSound.aif */ = {isa = PBXFileReference; lastKnownFileType = file; name = SmackSound.aif; path = ../../SmackSound.aif; sourceTree = "<group>"; };
+		0E9230AF1D02326000B03F85 /* RectangleSmall-Night.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = "RectangleSmall-Night.sks"; sourceTree = "<group>"; };
+		0E9230B11D023A2500B03F85 /* NightMusic.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = NightMusic.m4a; path = ../../NightMusic.m4a; sourceTree = "<group>"; };
+		0E9230B31D0244A900B03F85 /* Level36.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level36.sks; sourceTree = "<group>"; };
+		0E938B331D53F09D00BE7FB4 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
+		0E938B351D542B0200BE7FB4 /* SplashScreenScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SplashScreenScene.swift; sourceTree = "<group>"; };
+		0EA15A3F1CFCC9C0006404B1 /* Level1.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level1.sks; sourceTree = "<group>"; };
+		0EDBFD851D08FBC10034122C /* Level37.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level37.sks; sourceTree = "<group>"; };
+		0EDBFD871D090A1A0034122C /* Level38.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level38.sks; sourceTree = "<group>"; };
+		0EDBFD891D090C1A0034122C /* Level39.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level39.sks; sourceTree = "<group>"; };
+		0EDBFD8B1D090CDF0034122C /* Level40.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level40.sks; sourceTree = "<group>"; };
+		0EDBFD8D1D090D6E0034122C /* Level72.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level72.sks; sourceTree = "<group>"; };
+		0EDBFD8F1D0B89B40034122C /* trailParticle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = trailParticle.png; sourceTree = "<group>"; };
+		0EDBFD911D0B89BF0034122C /* rectTexture.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rectTexture.png; sourceTree = "<group>"; };
+		0EEB131A1D01243300AF6F53 /* Level59.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level59.sks; sourceTree = "<group>"; };
+		0EEB131C1D01267D00AF6F53 /* Level60.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level60.sks; sourceTree = "<group>"; };
+		0EEB13201D012EA400AF6F53 /* Death.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Death.sks; sourceTree = "<group>"; };
+		0EEF41C41CAC9E9800579CEE /* Level20.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level20.sks; sourceTree = "<group>"; };
+		0EEF41C61CAC9EF100579CEE /* RectangleSmall.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = RectangleSmall.sks; sourceTree = "<group>"; };
+		0EF169F01D146687008104A6 /* Level77.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level77.sks; sourceTree = "<group>"; };
+		0EF169F21D146749008104A6 /* Level78.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level78.sks; sourceTree = "<group>"; };
+		0EF169F41D146787008104A6 /* Level79.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level79.sks; sourceTree = "<group>"; };
+		0EF3720C1CADBFB90060C3B1 /* Level21.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level21.sks; sourceTree = "<group>"; };
+		0EF3720E1CADD2000060C3B1 /* Level22.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level22.sks; sourceTree = "<group>"; };
+		0EF57F4B1CCC0C5D0007E827 /* SettingsScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsScene.swift; sourceTree = "<group>"; };
+		0EF57F571CCD18030007E827 /* DuskMusic2.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = DuskMusic2.m4a; path = ../../DuskMusic2.m4a; sourceTree = "<group>"; };
+		0EF57F591CD2EF130007E827 /* Level25.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level25.sks; sourceTree = "<group>"; };
+		0EF57F5C1CD3FDDE0007E827 /* spark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = spark.png; sourceTree = "<group>"; };
+		0EF57F611CD7F49F0007E827 /* Level58.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level58.sks; sourceTree = "<group>"; };
+		0EF998AA1CFE20A4006B64F3 /* Level29.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level29.sks; sourceTree = "<group>"; };
+		0EF998AE1CFE21C9006B64F3 /* Level57.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level57.sks; sourceTree = "<group>"; };
+		0EF998B01CFE22B5006B64F3 /* RectangleSmall2.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = RectangleSmall2.sks; sourceTree = "<group>"; };
+		0EF998B21CFE2592006B64F3 /* Rectangle2.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Rectangle2.sks; sourceTree = "<group>"; };
+		0EF998B41CFE25BC006B64F3 /* Rectangle3.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Rectangle3.sks; sourceTree = "<group>"; };
+		0EF998B61CFE2631006B64F3 /* Level31.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level31.sks; sourceTree = "<group>"; };
+		0EF998B81CFE2650006B64F3 /* Level32.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level32.sks; sourceTree = "<group>"; };
+		0EF998BA1CFE26E8006B64F3 /* Level30.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level30.sks; sourceTree = "<group>"; };
+		0EF998C01CFF989F006B64F3 /* Level33.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level33.sks; sourceTree = "<group>"; };
+		0EF998C21CFF98D2006B64F3 /* Circle2.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Circle2.sks; sourceTree = "<group>"; };
+		0EF998C41CFF9919006B64F3 /* Level55.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level55.sks; sourceTree = "<group>"; };
+		0EF998C61CFFA029006B64F3 /* Level35.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level35.sks; sourceTree = "<group>"; };
+		0EF998C81CFFA1D9006B64F3 /* Level34.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level34.sks; sourceTree = "<group>"; };
+		0EF998CA1CFFDAEB006B64F3 /* Trail2.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Trail2.sks; sourceTree = "<group>"; };
+		0EF998CC1D00DF0C006B64F3 /* Level54.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level54.sks; sourceTree = "<group>"; };
+		0EF998CE1D00DF3E006B64F3 /* Level68.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level68.sks; sourceTree = "<group>"; };
+		0EF998D21D00E2B9006B64F3 /* Rectangle-Night.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = "Rectangle-Night.sks"; sourceTree = "<group>"; };
+		0EF998D61D00E302006B64F3 /* Square-Night.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = "Square-Night.sks"; sourceTree = "<group>"; };
+		0EF998D81D00E315006B64F3 /* Circle-Night.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = "Circle-Night.sks"; sourceTree = "<group>"; };
+		0EF998DA1D00E32D006B64F3 /* Circle-Night2.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = "Circle-Night2.sks"; sourceTree = "<group>"; };
+		0EF998DC1D00E36F006B64F3 /* RectangleSmall-Night2.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = "RectangleSmall-Night2.sks"; sourceTree = "<group>"; };
+		0EF998E21D00E5CE006B64F3 /* Level49.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level49.sks; sourceTree = "<group>"; };
+		0EF998E41D00E816006B64F3 /* Rectangle-Night2.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = "Rectangle-Night2.sks"; sourceTree = "<group>"; };
+		0EF998E61D00E8A1006B64F3 /* Level70.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level70.sks; sourceTree = "<group>"; };
+		0EF998E81D011AA0006B64F3 /* Level71.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level71.sks; sourceTree = "<group>"; };
+		0EF998EA1D011B30006B64F3 /* Level41.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level41.sks; sourceTree = "<group>"; };
+		0EF998EC1D011BD9006B64F3 /* Level42.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level42.sks; sourceTree = "<group>"; };
+		0EF998EE1D011C3E006B64F3 /* Level52.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level52.sks; sourceTree = "<group>"; };
+		0EF998F01D011CBE006B64F3 /* Level43.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level43.sks; sourceTree = "<group>"; };
+		0EF998F21D011E1B006B64F3 /* Level44.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level44.sks; sourceTree = "<group>"; };
+		0EF998F41D011E95006B64F3 /* Level45.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level45.sks; sourceTree = "<group>"; };
+		0EF998F61D011F2A006B64F3 /* Level46.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level46.sks; sourceTree = "<group>"; };
+		0EF998F81D011FAC006B64F3 /* Level53.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level53.sks; sourceTree = "<group>"; };
+		0EF998FA1D011FEE006B64F3 /* Level67.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level67.sks; sourceTree = "<group>"; };
+		0EF998FC1D01202E006B64F3 /* Square-Night2.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = "Square-Night2.sks"; sourceTree = "<group>"; };
+		0EF998FE1D0121A6006B64F3 /* Level51.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level51.sks; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +400,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0E5AD0A81D261620005DB4A0 /* GameKit.framework in Frameworks */,
+				0E938B341D53F09D00BE7FB4 /* StoreKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -81,6 +425,8 @@
 		0E45F4521C93345300C8046B = {
 			isa = PBXGroup;
 			children = (
+				0E938B331D53F09D00BE7FB4 /* StoreKit.framework */,
+				0E5AD0A71D261620005DB4A0 /* GameKit.framework */,
 				0E45F45D1C93345300C8046B /* Dusk */,
 				0E45F4761C93345300C8046B /* DuskTests */,
 				0E45F4811C93345300C8046B /* DuskUITests */,
@@ -101,14 +447,22 @@
 		0E45F45D1C93345300C8046B /* Dusk */ = {
 			isa = PBXGroup;
 			children = (
-				0E45F45E1C93345300C8046B /* AppDelegate.swift */,
-				0E45F4601C93345300C8046B /* GameScene.sks */,
-				0E45F4621C93345300C8046B /* GameScene.swift */,
-				0E45F4641C93345300C8046B /* GameViewController.swift */,
+				0EF57F4A1CCC0C440007E827 /* Scenes */,
+				0E45F4DD1C95E06300C8046B /* Levels */,
+				0E45F4901C94F1E900C8046B /* Resources */,
+				0E18DB171C9B839200754E05 /* Trail1.sks */,
+				0EF998CA1CFFDAEB006B64F3 /* Trail2.sks */,
+				0E8D6BCF1D0B8DFA00EABC5B /* Trail3.sks */,
+				0E8C68771D31781A00032BE7 /* squareTexture.png */,
+				0E8C68711D316DB000032BE7 /* CoinExplosion.sks */,
+				0E1350551D7A460800C3EDB7 /* MiniCoinExplosion.sks */,
+				0E8C68731D31778C00032BE7 /* Confetti1.sks */,
+				0EDBFD8F1D0B89B40034122C /* trailParticle.png */,
+				0EDBFD911D0B89BF0034122C /* rectTexture.png */,
 				0E45F4661C93345300C8046B /* Main.storyboard */,
-				0E45F4691C93345300C8046B /* Assets.xcassets */,
 				0E45F46B1C93345300C8046B /* LaunchScreen.storyboard */,
 				0E45F46E1C93345300C8046B /* Info.plist */,
+				0EF57F5C1CD3FDDE0007E827 /* spark.png */,
 			);
 			path = Dusk;
 			sourceTree = "<group>";
@@ -129,6 +483,247 @@
 				0E45F4841C93345300C8046B /* Info.plist */,
 			);
 			path = DuskUITests;
+			sourceTree = "<group>";
+		};
+		0E45F4901C94F1E900C8046B /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				0E45F4691C93345300C8046B /* Assets.xcassets */,
+				0E1350591D7B783A00C3EDB7 /* CoinCollectSound.aif */,
+				0E8C686F1D2AF28100032BE7 /* ChallengeCompleteSound.aif */,
+				0E8C686D1D2AEDD500032BE7 /* WhooshSound.aif */,
+				0E5AD0A51D236EB7005DB4A0 /* LevelCompleteSound.aif */,
+				0E5AD0A11D23686D005DB4A0 /* FreeGiftSound.aif */,
+				0E5AD08F1D22C836005DB4A0 /* ErrorSound.aif */,
+				0E5AD0671D219860005DB4A0 /* ButtonClick.aif */,
+				0E9230B11D023A2500B03F85 /* NightMusic.m4a */,
+				0E5AD09D1D22F6CD005DB4A0 /* DawnMusic.m4a */,
+				0EF57F571CCD18030007E827 /* DuskMusic2.m4a */,
+				0E9230AD1D02259700B03F85 /* SmackSound.aif */,
+				0E45F49B1C94FD1300C8046B /* Dolce Vita Light.ttf */,
+				0E45F4991C94FD0700C8046B /* Dolce Vita.ttf */,
+				0E45F4911C94F27200C8046B /* Roboto-Bold.ttf */,
+				0E45F4921C94F27200C8046B /* Roboto-Light.ttf */,
+				0E45F4931C94F27200C8046B /* Roboto-Regular.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		0E45F4DD1C95E06300C8046B /* Levels */ = {
+			isa = PBXGroup;
+			children = (
+				0EF998D11D00E27D006B64F3 /* Building Blocks */,
+				0EF998BC1CFF922F006B64F3 /* Easy Dusk Levels 1 - 9 */,
+				0EF998BD1CFF924A006B64F3 /* Medium Dusk Levels 10 - 15 */,
+				0EF998BE1CFF92DE006B64F3 /* Normal Dusk Levels 16 - 40 */,
+				0EF998BF1CFF92FB006B64F3 /* Night Levels 41 - 72 */,
+				0E8D6BEB1D0DF7F800EABC5B /* Dawn Levels 73 - 103 */,
+			);
+			name = Levels;
+			sourceTree = "<group>";
+		};
+		0E8C686A1D29A06100032BE7 /* Swift Files */ = {
+			isa = PBXGroup;
+			children = (
+				0E9230AB1D021C4000B03F85 /* iiFaderForAvAudioPlayer.swift */,
+				0E5AD0411D19FC81005DB4A0 /* SKScrollView.swift */,
+				0E45F49D1C95B82D00C8046B /* SKButton.swift */,
+				0E5AD0B71D280EE8005DB4A0 /* SKMultilineLabel.swift */,
+			);
+			name = "Swift Files";
+			sourceTree = "<group>";
+		};
+		0E8D6BEB1D0DF7F800EABC5B /* Dawn Levels 73 - 103 */ = {
+			isa = PBXGroup;
+			children = (
+				0E8D6BD71D0DD00F00EABC5B /* Level73.sks */,
+				0E8D6BE91D0DF49D00EABC5B /* Level74.sks */,
+				0E8D6BF01D10C3C600EABC5B /* Level75.sks */,
+				0E8D6BF21D10C4A100EABC5B /* Level76.sks */,
+				0EF169F01D146687008104A6 /* Level77.sks */,
+				0EF169F21D146749008104A6 /* Level78.sks */,
+				0EF169F41D146787008104A6 /* Level79.sks */,
+				0E5AD03B1D182C62005DB4A0 /* Level80.sks */,
+				0E5AD03D1D182D11005DB4A0 /* Level81.sks */,
+				0E5AD06D1D21ABF3005DB4A0 /* Level82.sks */,
+				0E5AD06F1D21AC69005DB4A0 /* Level83.sks */,
+				0E5AD0711D21ADBA005DB4A0 /* Level84.sks */,
+				0E5AD0731D21AEE0005DB4A0 /* Level85.sks */,
+				0E5AD0751D21AFC4005DB4A0 /* Level86.sks */,
+				0E5AD0791D21B0A5005DB4A0 /* Level87.sks */,
+				0E5AD07B1D21B167005DB4A0 /* Level88.sks */,
+				0E5AD0771D21B05A005DB4A0 /* Level89.sks */,
+				0E5AD07D1D21B1CC005DB4A0 /* Level90.sks */,
+				0E5AD07F1D21B292005DB4A0 /* Level91.sks */,
+				0E5AD0851D21B698005DB4A0 /* Level92.sks */,
+				0E5AD0891D21B904005DB4A0 /* Level93.sks */,
+				0E5AD0911D22DCCC005DB4A0 /* Level94.sks */,
+				0E5AD0931D22DD6D005DB4A0 /* Level95.sks */,
+				0E5AD0951D22DDFB005DB4A0 /* Level96.sks */,
+				0E5AD0971D22DEB4005DB4A0 /* Level97.sks */,
+				0E5AD0A91D26CC7C005DB4A0 /* Level98.sks */,
+				0E5AD0AB1D26CD42005DB4A0 /* Level99.sks */,
+				0E5AD0AD1D26CF14005DB4A0 /* Level100.sks */,
+				0E5AD0AF1D26CFE6005DB4A0 /* Level101.sks */,
+				0E5AD0B11D26D223005DB4A0 /* Level102.sks */,
+				0E5AD0B31D26D285005DB4A0 /* Level103.sks */,
+			);
+			name = "Dawn Levels 73 - 103";
+			sourceTree = "<group>";
+		};
+		0EF57F4A1CCC0C440007E827 /* Scenes */ = {
+			isa = PBXGroup;
+			children = (
+				0E938B351D542B0200BE7FB4 /* SplashScreenScene.swift */,
+				0E45F4621C93345300C8046B /* GameScene.swift */,
+				0EF57F4B1CCC0C5D0007E827 /* SettingsScene.swift */,
+				0E5AD03F1D184AD8005DB4A0 /* ShopScene.swift */,
+				0E8C68681D28460F00032BE7 /* DailyChallengeScene.swift */,
+				0E45F4641C93345300C8046B /* GameViewController.swift */,
+				0E45F45E1C93345300C8046B /* AppDelegate.swift */,
+				0E3AEBF61CFA043C00AD2518 /* FileSave.swift */,
+				0E5AD0431D1C74B9005DB4A0 /* DefaultGameData.plist */,
+				0E3AEBF21CF8AD1700AD2518 /* Death3.sks */,
+				0E8D6BEC1D105D1800EABC5B /* Death2.sks */,
+				0EEB13201D012EA400AF6F53 /* Death.sks */,
+				0E8C686A1D29A06100032BE7 /* Swift Files */,
+			);
+			name = Scenes;
+			sourceTree = "<group>";
+		};
+		0EF998BC1CFF922F006B64F3 /* Easy Dusk Levels 1 - 9 */ = {
+			isa = PBXGroup;
+			children = (
+				0EA15A3F1CFCC9C0006404B1 /* Level1.sks */,
+				0E2B27D91CFCCA7500AB356F /* Level2.sks */,
+				0E2B27DB1CFCCAA600AB356F /* Level3.sks */,
+				0E2B27DD1CFCCAFB00AB356F /* Level4.sks */,
+				0E2B27DF1CFCCB8B00AB356F /* Level5.sks */,
+				0E2B27E11CFCCCB700AB356F /* Level6.sks */,
+				0E2B27E51CFCCDF000AB356F /* Level7.sks */,
+				0E2B27E91CFCD19200AB356F /* Level8.sks */,
+				0E2B27E71CFCD0D700AB356F /* Level9.sks */,
+			);
+			name = "Easy Dusk Levels 1 - 9";
+			sourceTree = "<group>";
+		};
+		0EF998BD1CFF924A006B64F3 /* Medium Dusk Levels 10 - 15 */ = {
+			isa = PBXGroup;
+			children = (
+				0E2B27F31CFCDA2C00AB356F /* Level10.sks */,
+				0E2B27F11CFCD9B400AB356F /* Level11.sks */,
+				0E2B27EB1CFCD21500AB356F /* Level12.sks */,
+				0E2B27ED1CFCD27B00AB356F /* Level13.sks */,
+				0E2B27EF1CFCD45B00AB356F /* Level14.sks */,
+				0E2B27F51CFCDA6700AB356F /* Level15.sks */,
+			);
+			name = "Medium Dusk Levels 10 - 15";
+			sourceTree = "<group>";
+		};
+		0EF998BE1CFF92DE006B64F3 /* Normal Dusk Levels 16 - 40 */ = {
+			isa = PBXGroup;
+			children = (
+				0E45F4DE1C95E0F000C8046B /* Level16.sks */,
+				0E18DB151C9A3F8500754E05 /* Level17.sks */,
+				0E0C55771CAB62EC0011391E /* Level18.sks */,
+				0E0C55791CAB679B0011391E /* Level19.sks */,
+				0EEF41C41CAC9E9800579CEE /* Level20.sks */,
+				0EF3720C1CADBFB90060C3B1 /* Level21.sks */,
+				0EF3720E1CADD2000060C3B1 /* Level22.sks */,
+				0E4F31151CAF10F600996BB2 /* Level23.sks */,
+				0E4F31171CB00ABF00996BB2 /* Level24.sks */,
+				0EF57F591CD2EF130007E827 /* Level25.sks */,
+				0E2B28031CFCE6EA00AB356F /* Level26.sks */,
+				0E2B280D1CFDDA3300AB356F /* Level27.sks */,
+				0E2B27F71CFCDB2600AB356F /* Level28.sks */,
+				0EF998AA1CFE20A4006B64F3 /* Level29.sks */,
+				0EF998BA1CFE26E8006B64F3 /* Level30.sks */,
+				0EF998B61CFE2631006B64F3 /* Level31.sks */,
+				0EF998B81CFE2650006B64F3 /* Level32.sks */,
+				0EF998C01CFF989F006B64F3 /* Level33.sks */,
+				0EF998C81CFFA1D9006B64F3 /* Level34.sks */,
+				0EF998C61CFFA029006B64F3 /* Level35.sks */,
+				0E9230B31D0244A900B03F85 /* Level36.sks */,
+				0EDBFD851D08FBC10034122C /* Level37.sks */,
+				0EDBFD871D090A1A0034122C /* Level38.sks */,
+				0EDBFD891D090C1A0034122C /* Level39.sks */,
+				0EDBFD8B1D090CDF0034122C /* Level40.sks */,
+			);
+			name = "Normal Dusk Levels 16 - 40";
+			sourceTree = "<group>";
+		};
+		0EF998BF1CFF92FB006B64F3 /* Night Levels 41 - 72 */ = {
+			isa = PBXGroup;
+			children = (
+				0EF998EA1D011B30006B64F3 /* Level41.sks */,
+				0EF998EC1D011BD9006B64F3 /* Level42.sks */,
+				0EF998F01D011CBE006B64F3 /* Level43.sks */,
+				0EF998F21D011E1B006B64F3 /* Level44.sks */,
+				0EF998F41D011E95006B64F3 /* Level45.sks */,
+				0EF998F61D011F2A006B64F3 /* Level46.sks */,
+				0E2B28011CFCE60900AB356F /* Level47.sks */,
+				0E2B27FF1CFCE5DD00AB356F /* Level48.sks */,
+				0EF998E21D00E5CE006B64F3 /* Level49.sks */,
+				0E2B27F91CFCDDF800AB356F /* Level50.sks */,
+				0EF998FE1D0121A6006B64F3 /* Level51.sks */,
+				0EF998EE1D011C3E006B64F3 /* Level52.sks */,
+				0EF998F81D011FAC006B64F3 /* Level53.sks */,
+				0EF998CC1D00DF0C006B64F3 /* Level54.sks */,
+				0EF998C41CFF9919006B64F3 /* Level55.sks */,
+				0E2B28091CFDD8B500AB356F /* Level56.sks */,
+				0EF998AE1CFE21C9006B64F3 /* Level57.sks */,
+				0EF57F611CD7F49F0007E827 /* Level58.sks */,
+				0EEB131A1D01243300AF6F53 /* Level59.sks */,
+				0EEB131C1D01267D00AF6F53 /* Level60.sks */,
+				0E92309B1D01D86F00B03F85 /* Level61.sks */,
+				0E92309D1D01D8C600B03F85 /* Level62.sks */,
+				0E92309F1D01DBF800B03F85 /* Level63.sks */,
+				0E9230A11D01DCCA00B03F85 /* Level64.sks */,
+				0E9230A31D01DD2400B03F85 /* Level65.sks */,
+				0E9230A51D01EB2500B03F85 /* Level66.sks */,
+				0EF998FA1D011FEE006B64F3 /* Level67.sks */,
+				0EF998CE1D00DF3E006B64F3 /* Level68.sks */,
+				0E2B27FB1CFCDFAA00AB356F /* Level69.sks */,
+				0EF998E61D00E8A1006B64F3 /* Level70.sks */,
+				0EF998E81D011AA0006B64F3 /* Level71.sks */,
+				0EDBFD8D1D090D6E0034122C /* Level72.sks */,
+			);
+			name = "Night Levels 41 - 72";
+			sourceTree = "<group>";
+		};
+		0EF998D11D00E27D006B64F3 /* Building Blocks */ = {
+			isa = PBXGroup;
+			children = (
+				0E8D6BD31D0B9A3700EABC5B /* obstacle1.png */,
+				0E8D6BD11D0B9A2400EABC5B /* obstacle1-Night.png */,
+				0E2B28111CFDDCEF00AB356F /* Rectangle.sks */,
+				0EF998D21D00E2B9006B64F3 /* Rectangle-Night.sks */,
+				0E8D6BD91D0DD09800EABC5B /* Rectangle-Dawn.sks */,
+				0EF998B21CFE2592006B64F3 /* Rectangle2.sks */,
+				0EF998E41D00E816006B64F3 /* Rectangle-Night2.sks */,
+				0E8D6BDB1D0DD0D300EABC5B /* Rectangle-Dawn2.sks */,
+				0EF998B41CFE25BC006B64F3 /* Rectangle3.sks */,
+				0EEF41C61CAC9EF100579CEE /* RectangleSmall.sks */,
+				0E9230AF1D02326000B03F85 /* RectangleSmall-Night.sks */,
+				0E8D6BDD1D0DD0F300EABC5B /* RectangleSmall-Dawn.sks */,
+				0EF998B01CFE22B5006B64F3 /* RectangleSmall2.sks */,
+				0EF998DC1D00E36F006B64F3 /* RectangleSmall-Night2.sks */,
+				0E8D6BDF1D0DD10700EABC5B /* RectangleSmall-Dawn2.sks */,
+				0E4F31191CB00D0F00996BB2 /* Square.sks */,
+				0EF998D61D00E302006B64F3 /* Square-Night.sks */,
+				0E8D6BE31D0DD13200EABC5B /* Square-Dawn.sks */,
+				0EF998FC1D01202E006B64F3 /* Square-Night2.sks */,
+				0E8D6BE11D0DD12300EABC5B /* Square-Dawn2.sks */,
+				0E2B27E31CFCCD5A00AB356F /* Circle.sks */,
+				0EF998D81D00E315006B64F3 /* Circle-Night.sks */,
+				0E8D6BE51D0DD14800EABC5B /* Circle-Dawn.sks */,
+				0EF998C21CFF98D2006B64F3 /* Circle2.sks */,
+				0EF998DA1D00E32D006B64F3 /* Circle-Night2.sks */,
+				0E8D6BE71D0DD15800EABC5B /* Circle-Dawn2.sks */,
+				0E5AD0871D21B6C1005DB4A0 /* Bullet.sks */,
+				0E2389491D7A19FA007381F8 /* coins.sks */,
+			);
+			name = "Building Blocks";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -194,18 +789,30 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0720;
-				LastUpgradeCheck = 0720;
+				LastUpgradeCheck = 0800;
 				ORGANIZATIONNAME = "Quantum Cat Games";
 				TargetAttributes = {
 					0E45F45A1C93345300C8046B = {
 						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = HS9DZ25U43;
+						LastSwiftMigration = 0800;
+						SystemCapabilities = {
+							com.apple.GameCenter = {
+								enabled = 1;
+							};
+							com.apple.InAppPurchase = {
+								enabled = 1;
+							};
+						};
 					};
 					0E45F4721C93345300C8046B = {
 						CreatedOnToolsVersion = 7.2.1;
+						LastSwiftMigration = 0800;
 						TestTargetID = 0E45F45A1C93345300C8046B;
 					};
 					0E45F47D1C93345300C8046B = {
 						CreatedOnToolsVersion = 7.2.1;
+						LastSwiftMigration = 0800;
 						TestTargetID = 0E45F45A1C93345300C8046B;
 					};
 				};
@@ -235,10 +842,170 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0E45F4611C93345300C8046B /* GameScene.sks in Resources */,
+				0E9230B21D023A2500B03F85 /* NightMusic.m4a in Resources */,
+				0E92309E1D01D8C600B03F85 /* Level62.sks in Resources */,
+				0EDBFD8E1D090D6E0034122C /* Level72.sks in Resources */,
+				0EF998C91CFFA1D9006B64F3 /* Level34.sks in Resources */,
+				0E2B28021CFCE60900AB356F /* Level47.sks in Resources */,
+				0E9230A01D01DBF800B03F85 /* Level63.sks in Resources */,
+				0E2B280E1CFDDA3300AB356F /* Level27.sks in Resources */,
+				0E2B27E21CFCCCB700AB356F /* Level6.sks in Resources */,
+				0EF998BB1CFE26E8006B64F3 /* Level30.sks in Resources */,
+				0EF998C11CFF989F006B64F3 /* Level33.sks in Resources */,
+				0EF998E71D00E8A1006B64F3 /* Level70.sks in Resources */,
+				0E2B28121CFDDCEF00AB356F /* Rectangle.sks in Resources */,
+				0E2B27DA1CFCCA7500AB356F /* Level2.sks in Resources */,
+				0EF998F31D011E1B006B64F3 /* Level44.sks in Resources */,
+				0E13505A1D7B783A00C3EDB7 /* CoinCollectSound.aif in Resources */,
+				0EF57F581CCD18030007E827 /* DuskMusic2.m4a in Resources */,
+				0E4F31181CB00ABF00996BB2 /* Level24.sks in Resources */,
+				0E92309C1D01D86F00B03F85 /* Level61.sks in Resources */,
+				0E2B28041CFCE6EA00AB356F /* Level26.sks in Resources */,
+				0E8D6BDE1D0DD0F300EABC5B /* RectangleSmall-Dawn.sks in Resources */,
+				0E18DB181C9B839200754E05 /* Trail1.sks in Resources */,
+				0E5AD0921D22DCCC005DB4A0 /* Level94.sks in Resources */,
+				0E45F4971C94F27200C8046B /* Roboto-Regular.ttf in Resources */,
+				0E8D6BE01D0DD10700EABC5B /* RectangleSmall-Dawn2.sks in Resources */,
+				0E5AD0B41D26D285005DB4A0 /* Level103.sks in Resources */,
+				0EF998DD1D00E36F006B64F3 /* RectangleSmall-Night2.sks in Resources */,
+				0EF998CF1D00DF3E006B64F3 /* Level68.sks in Resources */,
+				0EA15A401CFCC9C0006404B1 /* Level1.sks in Resources */,
 				0E45F46D1C93345300C8046B /* LaunchScreen.storyboard in Resources */,
+				0E2B27E61CFCCDF000AB356F /* Level7.sks in Resources */,
+				0E5AD0A61D236EB7005DB4A0 /* LevelCompleteSound.aif in Resources */,
+				0E5AD03E1D182D11005DB4A0 /* Level81.sks in Resources */,
+				0E2B27EA1CFCD19200AB356F /* Level8.sks in Resources */,
+				0E9230B41D0244A900B03F85 /* Level36.sks in Resources */,
+				0E5AD07A1D21B0A5005DB4A0 /* Level87.sks in Resources */,
+				0E2B27EC1CFCD21500AB356F /* Level12.sks in Resources */,
+				0EEF41C51CAC9E9800579CEE /* Level20.sks in Resources */,
+				0EF998B31CFE2592006B64F3 /* Rectangle2.sks in Resources */,
+				0EF998B91CFE2650006B64F3 /* Level32.sks in Resources */,
+				0E23894A1D7A19FA007381F8 /* coins.sks in Resources */,
+				0EF998B51CFE25BC006B64F3 /* Rectangle3.sks in Resources */,
+				0E8D6BD81D0DD00F00EABC5B /* Level73.sks in Resources */,
+				0E5AD0741D21AEE0005DB4A0 /* Level85.sks in Resources */,
+				0EDBFD901D0B89B40034122C /* trailParticle.png in Resources */,
+				0E8D6BF11D10C3C600EABC5B /* Level75.sks in Resources */,
+				0E0C55781CAB62EC0011391E /* Level18.sks in Resources */,
+				0EF998B11CFE22B5006B64F3 /* RectangleSmall2.sks in Resources */,
+				0E5AD0861D21B698005DB4A0 /* Level92.sks in Resources */,
+				0EF998F91D011FAC006B64F3 /* Level53.sks in Resources */,
+				0E2B27E81CFCD0D700AB356F /* Level9.sks in Resources */,
+				0EEF41C71CAC9EF100579CEE /* RectangleSmall.sks in Resources */,
+				0E4F31161CAF10F600996BB2 /* Level23.sks in Resources */,
+				0EDBFD881D090A1A0034122C /* Level38.sks in Resources */,
+				0E2B27F81CFCDB2600AB356F /* Level28.sks in Resources */,
+				0E5AD0B21D26D223005DB4A0 /* Level102.sks in Resources */,
+				0E4F311A1CB00D0F00996BB2 /* Square.sks in Resources */,
+				0E2B27DE1CFCCAFB00AB356F /* Level4.sks in Resources */,
+				0E8D6BDA1D0DD09800EABC5B /* Rectangle-Dawn.sks in Resources */,
+				0EF998F71D011F2A006B64F3 /* Level46.sks in Resources */,
+				0EF998C51CFF9919006B64F3 /* Level55.sks in Resources */,
 				0E45F46A1C93345300C8046B /* Assets.xcassets in Resources */,
+				0E18DB161C9A3F8500754E05 /* Level17.sks in Resources */,
+				0EF998EF1D011C3E006B64F3 /* Level52.sks in Resources */,
+				0E5AD0B01D26CFE6005DB4A0 /* Level101.sks in Resources */,
+				0E1350561D7A460800C3EDB7 /* MiniCoinExplosion.sks in Resources */,
+				0E5AD08A1D21B904005DB4A0 /* Level93.sks in Resources */,
+				0E8D6BEA1D0DF49D00EABC5B /* Level74.sks in Resources */,
+				0E5AD09E1D22F6CD005DB4A0 /* DawnMusic.m4a in Resources */,
+				0E5AD0441D1C74B9005DB4A0 /* DefaultGameData.plist in Resources */,
+				0E5AD0AE1D26CF14005DB4A0 /* Level100.sks in Resources */,
+				0EF998D91D00E315006B64F3 /* Circle-Night.sks in Resources */,
+				0EF57F5A1CD2EF130007E827 /* Level25.sks in Resources */,
+				0EF998D31D00E2B9006B64F3 /* Rectangle-Night.sks in Resources */,
+				0EF169F11D146687008104A6 /* Level77.sks in Resources */,
+				0EDBFD8C1D090CDF0034122C /* Level40.sks in Resources */,
+				0EF998DB1D00E32D006B64F3 /* Circle-Night2.sks in Resources */,
+				0EF57F621CD7F49F0007E827 /* Level58.sks in Resources */,
+				0EF998AB1CFE20A4006B64F3 /* Level29.sks in Resources */,
+				0E5AD0681D219860005DB4A0 /* ButtonClick.aif in Resources */,
+				0E45F4DF1C95E0F000C8046B /* Level16.sks in Resources */,
+				0EF57F5E1CD3FDDE0007E827 /* spark.png in Resources */,
+				0E5AD0A21D23686D005DB4A0 /* FreeGiftSound.aif in Resources */,
+				0E45F4961C94F27200C8046B /* Roboto-Light.ttf in Resources */,
+				0E8C68781D31781A00032BE7 /* squareTexture.png in Resources */,
+				0E5AD0801D21B292005DB4A0 /* Level91.sks in Resources */,
+				0E5AD0901D22C836005DB4A0 /* ErrorSound.aif in Resources */,
+				0EF998CD1D00DF0C006B64F3 /* Level54.sks in Resources */,
+				0EF998ED1D011BD9006B64F3 /* Level42.sks in Resources */,
+				0E9230A41D01DD2400B03F85 /* Level65.sks in Resources */,
+				0E2B280A1CFDD8B500AB356F /* Level56.sks in Resources */,
+				0E5AD0781D21B05A005DB4A0 /* Level89.sks in Resources */,
+				0E9230A61D01EB2500B03F85 /* Level66.sks in Resources */,
+				0EF998D71D00E302006B64F3 /* Square-Night.sks in Resources */,
+				0E5AD06E1D21ABF3005DB4A0 /* Level82.sks in Resources */,
+				0E5AD0961D22DDFB005DB4A0 /* Level96.sks in Resources */,
+				0E45F49A1C94FD0700C8046B /* Dolce Vita.ttf in Resources */,
+				0EF998F11D011CBE006B64F3 /* Level43.sks in Resources */,
+				0EDBFD861D08FBC10034122C /* Level37.sks in Resources */,
+				0E8D6BF31D10C4A100EABC5B /* Level76.sks in Resources */,
+				0E9230AE1D02259700B03F85 /* SmackSound.aif in Resources */,
+				0EF998C31CFF98D2006B64F3 /* Circle2.sks in Resources */,
+				0E5AD0881D21B6C1005DB4A0 /* Bullet.sks in Resources */,
+				0E8D6BD01D0B8DFA00EABC5B /* Trail3.sks in Resources */,
+				0E2B27F41CFCDA2C00AB356F /* Level10.sks in Resources */,
+				0E5AD07C1D21B167005DB4A0 /* Level88.sks in Resources */,
+				0E5AD07E1D21B1CC005DB4A0 /* Level90.sks in Resources */,
+				0EF3720F1CADD2000060C3B1 /* Level22.sks in Resources */,
+				0E8C686E1D2AEDD500032BE7 /* WhooshSound.aif in Resources */,
+				0EF998C71CFFA029006B64F3 /* Level35.sks in Resources */,
+				0E45F4951C94F27200C8046B /* Roboto-Bold.ttf in Resources */,
+				0EEB13211D012EA400AF6F53 /* Death.sks in Resources */,
+				0E2B27FC1CFCDFAA00AB356F /* Level69.sks in Resources */,
+				0E0C557A1CAB679B0011391E /* Level19.sks in Resources */,
+				0E2B28001CFCE5DD00AB356F /* Level48.sks in Resources */,
+				0E5AD0721D21ADBA005DB4A0 /* Level84.sks in Resources */,
+				0E5AD0AA1D26CC7C005DB4A0 /* Level98.sks in Resources */,
+				0E5AD0761D21AFC4005DB4A0 /* Level86.sks in Resources */,
+				0E2B27DC1CFCCAA600AB356F /* Level3.sks in Resources */,
+				0E2B27EE1CFCD27B00AB356F /* Level13.sks in Resources */,
+				0E3AEBF31CF8AD1700AD2518 /* Death3.sks in Resources */,
+				0E2B27F21CFCD9B400AB356F /* Level11.sks in Resources */,
 				0E45F4681C93345300C8046B /* Main.storyboard in Resources */,
+				0E8D6BE81D0DD15800EABC5B /* Circle-Dawn2.sks in Resources */,
+				0E2B27E41CFCCD5A00AB356F /* Circle.sks in Resources */,
+				0E8D6BE41D0DD13200EABC5B /* Square-Dawn.sks in Resources */,
+				0E5AD0701D21AC69005DB4A0 /* Level83.sks in Resources */,
+				0E8D6BE21D0DD12300EABC5B /* Square-Dawn2.sks in Resources */,
+				0E8C68701D2AF28100032BE7 /* ChallengeCompleteSound.aif in Resources */,
+				0E2B27F61CFCDA6700AB356F /* Level15.sks in Resources */,
+				0EF998EB1D011B30006B64F3 /* Level41.sks in Resources */,
+				0EEB131D1D01267D00AF6F53 /* Level60.sks in Resources */,
+				0E9230B01D02326000B03F85 /* RectangleSmall-Night.sks in Resources */,
+				0E5AD0AC1D26CD42005DB4A0 /* Level99.sks in Resources */,
+				0E9230A21D01DCCA00B03F85 /* Level64.sks in Resources */,
+				0EF998FD1D01202E006B64F3 /* Square-Night2.sks in Resources */,
+				0E2B27FA1CFCDDF800AB356F /* Level50.sks in Resources */,
+				0E5AD03C1D182C62005DB4A0 /* Level80.sks in Resources */,
+				0E8C68721D316DB000032BE7 /* CoinExplosion.sks in Resources */,
+				0EF998AF1CFE21C9006B64F3 /* Level57.sks in Resources */,
+				0E5AD0981D22DEB4005DB4A0 /* Level97.sks in Resources */,
+				0E5AD0941D22DD6D005DB4A0 /* Level95.sks in Resources */,
+				0EF998FB1D011FEE006B64F3 /* Level67.sks in Resources */,
+				0E45F49C1C94FD1300C8046B /* Dolce Vita Light.ttf in Resources */,
+				0E8D6BD41D0B9A3700EABC5B /* obstacle1.png in Resources */,
+				0E2B27E01CFCCB8B00AB356F /* Level5.sks in Resources */,
+				0EF998F51D011E95006B64F3 /* Level45.sks in Resources */,
+				0E2B27F01CFCD45B00AB356F /* Level14.sks in Resources */,
+				0E8D6BED1D105D1800EABC5B /* Death2.sks in Resources */,
+				0EF998FF1D0121A6006B64F3 /* Level51.sks in Resources */,
+				0EF169F51D146787008104A6 /* Level79.sks in Resources */,
+				0EF3720D1CADBFB90060C3B1 /* Level21.sks in Resources */,
+				0EDBFD8A1D090C1A0034122C /* Level39.sks in Resources */,
+				0EF998B71CFE2631006B64F3 /* Level31.sks in Resources */,
+				0E8D6BE61D0DD14800EABC5B /* Circle-Dawn.sks in Resources */,
+				0EEB131B1D01243300AF6F53 /* Level59.sks in Resources */,
+				0EF998E51D00E816006B64F3 /* Rectangle-Night2.sks in Resources */,
+				0EF169F31D146749008104A6 /* Level78.sks in Resources */,
+				0EF998E31D00E5CE006B64F3 /* Level49.sks in Resources */,
+				0EDBFD921D0B89BF0034122C /* rectTexture.png in Resources */,
+				0EF998CB1CFFDAEB006B64F3 /* Trail2.sks in Resources */,
+				0E8D6BDC1D0DD0D300EABC5B /* Rectangle-Dawn2.sks in Resources */,
+				0E8C68741D31778C00032BE7 /* Confetti1.sks in Resources */,
+				0EF998E91D011AA0006B64F3 /* Level71.sks in Resources */,
+				0E8D6BD21D0B9A2400EABC5B /* obstacle1-Night.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -264,8 +1031,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				0E45F4631C93345300C8046B /* GameScene.swift in Sources */,
+				0E9230AC1D021C4000B03F85 /* iiFaderForAvAudioPlayer.swift in Sources */,
+				0E5AD0B81D280EE8005DB4A0 /* SKMultilineLabel.swift in Sources */,
 				0E45F4651C93345300C8046B /* GameViewController.swift in Sources */,
+				0E5AD0401D184AD8005DB4A0 /* ShopScene.swift in Sources */,
 				0E45F45F1C93345300C8046B /* AppDelegate.swift in Sources */,
+				0EF57F4C1CCC0C5D0007E827 /* SettingsScene.swift in Sources */,
+				0E3AEBF71CFA043C00AD2518 /* FileSave.swift in Sources */,
+				0E45F49E1C95B82D00C8046B /* SKButton.swift in Sources */,
+				0E5AD0421D19FC81005DB4A0 /* SKScrollView.swift in Sources */,
+				0E8C68691D28460F00032BE7 /* DailyChallengeScene.swift in Sources */,
+				0E938B361D542B0200BE7FB4 /* SplashScreenScene.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -333,8 +1109,10 @@
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
@@ -356,7 +1134,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -378,8 +1156,10 @@
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
@@ -395,9 +1175,10 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 			};
@@ -407,10 +1188,15 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				DEVELOPMENT_TEAM = HS9DZ25U43;
 				INFOPLIST_FILE = Dusk/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.quantumcat.Dusk;
+				PRODUCT_BUNDLE_IDENTIFIER = com.quantumcat.dusk;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -418,10 +1204,16 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				DEVELOPMENT_TEAM = HS9DZ25U43;
 				INFOPLIST_FILE = Dusk/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.quantumcat.Dusk;
+				PRODUCT_BUNDLE_IDENTIFIER = com.quantumcat.dusk;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
@@ -434,6 +1226,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.quantumcat.DuskTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Dusk.app/Dusk";
 			};
 			name = Debug;
@@ -446,6 +1239,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.quantumcat.DuskTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Dusk.app/Dusk";
 			};
 			name = Release;
@@ -453,11 +1247,13 @@
 		0E45F48E1C93345300C8046B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				INFOPLIST_FILE = DuskUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.quantumcat.DuskUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_TARGET_NAME = Dusk;
 				USES_XCTRUNNER = YES;
 			};
@@ -466,10 +1262,12 @@
 		0E45F48F1C93345300C8046B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = DuskUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.quantumcat.DuskUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_TARGET_NAME = Dusk;
 				USES_XCTRUNNER = YES;
 			};
@@ -494,6 +1292,7 @@
 				0E45F4891C93345300C8046B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0E45F48A1C93345300C8046B /* Build configuration list for PBXNativeTarget "DuskTests" */ = {
 			isa = XCConfigurationList;
@@ -502,6 +1301,7 @@
 				0E45F48C1C93345300C8046B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0E45F48D1C93345300C8046B /* Build configuration list for PBXNativeTarget "DuskUITests" */ = {
 			isa = XCConfigurationList;
@@ -510,6 +1310,7 @@
 				0E45F48F1C93345300C8046B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
