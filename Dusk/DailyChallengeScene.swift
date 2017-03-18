@@ -55,8 +55,8 @@ class DailyChallengeScene: SKScene {
     var progressTotalNeeded: CGFloat!
     var progressMaximum: Double = Double.infinity
     
-    var dailyChallengeWords: String!
-    var dailyChallengeRewardAmount: Int!
+    var dailyChallengeWords: String = ""
+    var dailyChallengeRewardAmount: Int = 0
     
     override func didMove(to view: SKView) {
         

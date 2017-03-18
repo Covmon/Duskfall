@@ -106,6 +106,8 @@ class GameViewController: UIViewController, GKGameCenterControllerDelegate {
         }
         print("music silenced is \(musicSilenced)")
         
+        if GameData.sharedInstance.loadGame(saveFile: "GameData.plist") {
+        
         tutorialNeeded = GameData.sharedInstance.tutorialNeeded //TODO: CHANGE TO TRUE
 
         highScore = GameData.sharedInstance.highScoreDusk
@@ -157,6 +159,9 @@ class GameViewController: UIViewController, GKGameCenterControllerDelegate {
         giftDate = GameData.sharedInstance.giftDate as Date
         print("saved giftdate is \(GameData.sharedInstance.giftDate)")
         allowsNotifications = GameData.sharedInstance.allowsNotifications
+        } else {
+            
+        }
         
         if hasChosenNotifications {
             let settings: UIUserNotificationSettings = UIApplication.shared.currentUserNotificationSettings!
@@ -262,7 +267,7 @@ class GameViewController: UIViewController, GKGameCenterControllerDelegate {
                         
                         if (error != nil)
                         {
-                            print("\(error!.description)")
+                            print("error")
                         }
                         else
                         {

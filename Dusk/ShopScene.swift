@@ -221,12 +221,15 @@ class ShopScene: SKScene {
             
             let index1: Int = allCharacters.index(of: char)!
             
+            let x = num1000Characters + num3000Characters + 2
+            let y = num1000Characters + num3000Characters + num5000Characters + 1
+            
             switch index1 {
             case 2...(num1000Characters + 1):
                 imageName = "1000Locked"
             case (num1000Characters + 2)...(num1000Characters + num3000Characters + 1):
                 imageName = "3000Locked"
-            case (num1000Characters + num3000Characters + 2)...(num1000Characters + num3000Characters + num5000Characters + 1):
+            case x...y:
                 imageName = "5000Locked"
             case 1:
                 imageName = "0Locked"
@@ -376,6 +379,8 @@ class ShopScene: SKScene {
         var cost = 1000
         
         let index1: Int = allCharacters.index(of: name)!
+        let x = num1000Characters + num3000Characters + 2
+        let y = num1000Characters + num3000Characters + num5000Characters + 1
         
         switch index1 {
         case 2...(num1000Characters + 1):
@@ -383,7 +388,7 @@ class ShopScene: SKScene {
         case (num1000Characters + 2)...(num1000Characters + num3000Characters + 1):
             cost = 3000
             is3000 = true
-        case (num1000Characters + num3000Characters + 2)...(num1000Characters + num3000Characters + num5000Characters + 1):
+        case x...y:
             cost = 5000
             is3000 = true
             is5000 = true
